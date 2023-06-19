@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Yolomep's GitHub stats](https://github-readme-stats-yolomep.vercel.app/api?username=yolomep)]()
+[![Yolomep's GitHub stats](https://github-readme-stats-yolomep.vercel.app/api?username=yolomep&theme=tokyonight)]()
 
 <!--
 **yolomep/yolomep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
