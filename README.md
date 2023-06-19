@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Yolomep's GitHub stats](https://github-readme-stats-indol-beta.vercel.app/api?username=yolomep)](https://github.com/anuraghazra/github-readme-stats)
+[![Yolomep's GitHub stats](https://github-readme-stats-indol-beta.vercel.app/api?username=yolomep)]
 <!--
 **yolomep/yolomep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
