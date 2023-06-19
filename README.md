@@ -2,6 +2,8 @@
 
 [![Yolomep's GitHub stats](https://github-readme-stats-yolomep.vercel.app/api?username=yolomep&theme=tokyonight)]()
 
+
+[![Top Langs](https://github-readme-stats-yolomep.vercel.app/api/top-langs/?username=yolomep&langs_count=10&layout=donut-vertical&theme=tokyonight)]()
 <!--
 **yolomep/yolomep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
