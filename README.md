@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-[![Yolomep's GitHub stats](https://github-readme-stats-yolomep.vercel.app/api?username=yolomep&theme=tokyonight)]()
+<a href="https://yolomep.github.io">
+  <img align="center" src="https://github-readme-stats-yolomep.vercel.app/api?username=yolomep&theme=tokyonight" />
+</a>
+<a href="https://yolomep.github.iot">
+  <img align="center" src="https://github-readme-stats-yolomep.vercel.app/api/top-langs/?username=yolomep&langs_count=10&layout=donut-vertical&theme=tokyonight" />
+</a>
 
 
-[![Top Langs](https://github-readme-stats-yolomep.vercel.app/api/top-langs/?username=yolomep&langs_count=10&layout=donut-vertical&theme=tokyonight)]()
 <!--
 **yolomep/yolomep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
