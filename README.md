@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://yolomep.github.io">
+<a href="https://yolomep.github.io" style="margin-left:3em">
   <img align="center" src="https://github-readme-stats-yolomep.vercel.app/api?username=yolomep&theme=tokyonight" />
 </a>
 <a href="https://yolomep.github.iot">
